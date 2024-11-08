@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Doxweb Wallpaper",
+  "Thumbnail": "thumbnail.png",
+  "Preview": "preview.png",
+  "Desc": "made by nullbyte",
+  "Author": "nullbyte, owner of doxweb",
+  "License": "",
+  "Contact": "https://github.com/nullbytenet",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
